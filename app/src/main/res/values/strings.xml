@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="login_tv">LOGIN</string>
+    <string name="enter_name_ev_hint">Enter Name</string>
+    <string name="password_ev_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="title_activity_second_screen">Second_screen</string>
+    <string name="profile_btn">Profile</string>
+    <string name="quiz_btn">Quiz</string>
+    <string name="logged_in_tv">You are Logged in..!</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="edit_your_profile_tv">Edit your Profile</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_ques_n_list">ques_n_list</string>
+    <string name="title_activity_single_question">Single_question</string>
+</resources>
